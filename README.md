@@ -31,3 +31,4 @@ Keduanya mengakses broker pada host dan port yang sama (localhost:5672)
 Ini adalah konsep dasar arsitektur publish-subscribe, dimana publisher dan subscriber tidak perlu saling mengenal secara langsung, tetapi berkomunikasi melalui broker pesan sebagai perantara. Keduanya harus terhubung ke broker yang sama agar pesan dapat dikirim dan diterima dengan sukses.
 
 ![rabbitMQ-image](/README-Image/Screenshot%202025-05-16%20150605.png)
+![publisher-terminal](/README-Image/Screenshot%202025-05-16%20161413.png)
