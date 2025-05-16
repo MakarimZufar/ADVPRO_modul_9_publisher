@@ -32,3 +32,4 @@ Ini adalah konsep dasar arsitektur publish-subscribe, dimana publisher dan subsc
 
 ![rabbitMQ-image](/README-Image/Screenshot%202025-05-16%20150605.png)
 ![publisher-terminal](/README-Image/Screenshot%202025-05-16%20161413.png)
+![graph-rabbitMQ](/README-Image/Screenshot%202025-05-05.png)
